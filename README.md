@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, ich bin Mirac
 
-<!--
-**Mirac61/Mirac61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Softwaretechnik-Student (3. Semester)
 
-Here are some ideas to get you started:
+## Technologien
+C# · .NET · Java · JavaFX · TypeScript · Vue.js · SQL · SQLite · DB2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Aktuelle Projekte
+- Persönliche Website (Vue + TypeScript)
+- Autovermietung (JavaFX + Hibernate)
+- Zeiterfassung (ASP.NET Core · HTML/CSS)
+- Rechnungsverwaltung (Java & JavaFX)
+
+## Ziele
+Saubere Architektur, moderne Patterns und reale Projekte.
