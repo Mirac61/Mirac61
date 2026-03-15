@@ -41,9 +41,6 @@ Vollständige Shell von Grund auf – Prozessmanagement, Pipes, Redirects, Git-I
 ### 🧾 [Rechnungsverwaltung](https://github.com/Mirac61/InvoicePWA) — Java · Spring Boot · Vue.js
 Fullstack-App zur Rechnungsverwaltung mit REST API und modernem Frontend.
 
-### 🕌 [Gebetszeiten App](https://github.com/Mirac61/prayer-times) — Vue.js · TypeScript
-Webapp die automatisch Gebetszeiten berechnet und anzeigt.
-
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mirac61&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
