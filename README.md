@@ -55,5 +55,5 @@ Pipelines, redirections, signal handling, tab completion. No leaks reported unde
 
 <p>
   <a href="mailto:mi.sancak@proton.me"><img src="https://img.shields.io/badge/Email-1F1F28?style=flat-square&logo=maildotru&logoColor=E6C384" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/mirac-sancak-47917238b/"><a href="https://www.linkedin.com/in/mirac-sancak-47917238b/"><img src="https://img.shields.io/badge/LinkedIn-1F1F28?style=flat-square&logo=linkedin&logoColor=7FB4CA" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/mirac-sancak-47917238b/"><a href="https://www.linkedin.com/in/mirac-ibrahim-sancak-47917238b"><img src="https://img.shields.io/badge/LinkedIn-1F1F28?style=flat-square&logo=linkedin&logoColor=7FB4CA" alt="LinkedIn" /></a>
 </p>
